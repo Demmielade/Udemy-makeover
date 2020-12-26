@@ -1,0 +1,37 @@
+header {
+  background: aqua;
+  text-align: center;
+  height: 10;
+}
+
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top: dotted;
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+  font-size: 12;
+  font-family: small-caps;
+  line-height: 10px;
+  color: #66BFBF;
+  text-align: center;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+article {
+  font-family: fantasy papyrus;
+  color: black;
+  text-align: justify;
+  text-decoration-color: blue;
+  font-size: 5;
+}
